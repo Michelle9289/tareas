@@ -1,0 +1,17 @@
+h1 {
+    color:rgb(143, 18, 18);
+}
+
+body {
+    background-color:#408b93;
+    color: #FFFADE;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+#description {
+    color:brown;
+}
