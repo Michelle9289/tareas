@@ -3,6 +3,6 @@ function Mensaje() {
 }
 
 function enviarSaludoAPersona() {
-  let message = prompt("Hola usuario dime tu nombre");
-  alert(`Hola ${message}`);
+  let message = prompt("Hola ¿Cúal es tu nombre?");
+  alert(`¡Hola ${message}!`);
 }
